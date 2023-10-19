@@ -39,3 +39,18 @@ flutter responsive app with 25+ beautifully crafted screens.
   <img src="https://github.com/MohammedAttia3104/meal_monkey_app/assets/87551010/46f4892a-c514-4b82-be77-25ee73500515" width="300">
   <img src="https://github.com/MohammedAttia3104/meal_monkey_app/assets/87551010/5e8fa6c4-ee0f-464a-b030-767b4df21b91" width="300">
 </div>
+
+## Installation
+### 1. Clone the repo
+```
+git clone https://github.com/MohammedAttia3104/meal_monkey_app.git
+cd meal_monkey_app
+```
+### 2. Run pub get
+```
+flutter pub get
+```
+### 3. Run the app
+```
+flutter run
+```
